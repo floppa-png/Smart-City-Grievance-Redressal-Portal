@@ -216,7 +216,7 @@ If you build upon this system, adapt the codebase, or reference this smart griev
   author       = {Mrityunjay.V, Vishal.B, Pavithran.P, Sanjit.K.R},
   title        = {Coimbatore City Municipal Corporation (CCMC) Smart Governance and SLA-Driven Grievance Redressal Portal},
   year         = {2026},
-  howpublished = {\url{https://github.com/floppa-png/UID-SCMS}},
+  howpublished = {\url{https://github.com/floppa-png/Smart-City-Grievance-Redressal-Portal}},
   note         = {GitHub Repository}
 }
 ```
